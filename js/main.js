@@ -37,4 +37,4 @@ function next() {
     slide[i].classList.add("active");
 }
 
-sliderAuto(2500);
+sliderAuto(3500);
